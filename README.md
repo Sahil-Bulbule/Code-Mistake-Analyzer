@@ -9,7 +9,7 @@ The project is completely built using Python's standard library.
 ---
 
 ## 🚀 Features
-
+  
 - Detect Python syntax errors
 - Detect potentially undefined variables
 - Detect unused variables
